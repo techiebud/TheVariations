@@ -9,6 +9,7 @@ namespace TheVariations
 {
     public class Program
     {
+        //testing GIT changes.
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
